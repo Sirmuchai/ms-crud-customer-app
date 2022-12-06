@@ -1,5 +1,7 @@
 # ms-crud-customer-app
 
+### This application Implements CRUD service for a customer table.
+
 Create a Postgress Database and specify the connection properties on application.properties file.
 
 Using Postman test below api:
